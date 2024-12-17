@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/nlw_journey_py/d831ffe21af692c504935cab21ab40187a514acc/.github/logo.svg?raw=true"  alt="Logo do projeto" width="400px" />
+    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/nlw-journey-py/aa7454acd2fcb07fb3cbfb6a2190fc7b1b35b7a2/.github/logo.svg"  alt="Logo do projeto" width="400px" />
   </a>
 </p>
 
@@ -20,17 +20,17 @@ O projeto desenvolvido durante o NLW Journey tem como propósito facilitar a org
 ### Insomina
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Registra Trips" title="#RegistraTrips" src="https://github.com/Gelzieny/nlw_journey_py/blob/main/.github/insominia.png?raw=true" width="400px">
+  <img alt="Registra Trips" title="#RegistraTrips" src="https://github.com/Gelzieny/nlw-journey-py/blob/master/.github/insominia.png?raw=true" width="400px">
 
-  <img alt="Listar Trips" title="#RegistraTrips" src="https://github.com/Gelzieny/nlw_journey_py/blob/main/.github/insominia_02.png?raw=true" width="400px">
+  <img alt="Listar Trips" title="#RegistraTrips" src="https://github.com/Gelzieny/nlw-journey-py/blob/master/.github/insominia_02.png?raw=true" width="400px">
 </p>
 
 ### vscode
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Tela rotas" title="#TelaRotas" src="https://github.com/Gelzieny/nlw_journey_py/blob/main/.github/rotas.png?raw=true" width="400px">
+  <img alt="Tela rotas" title="#TelaRotas" src="https://github.com/Gelzieny/nlw-journey-py/blob/master/.github/rotas.png?raw=true" width="400px">
 
-  <img alt="Teste da aplicação" title="#TesteDaAplicacao" src="https://github.com/Gelzieny/nlw_journey_py/blob/main/.github/teste.png?raw=true" width="400px">
+  <img alt="Teste da aplicação" title="#TesteDaAplicacao" src="https://github.com/Gelzieny/nlw-journey-py/blob/master/.github/teste.png?raw=true" width="400px">
 </p>
 
 ## 🛠 Tecnologias

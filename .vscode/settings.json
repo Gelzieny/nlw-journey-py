@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/*.pic": { "when": "$(basename).py" },
+    "**/__pycache__": true,
+    "**/*.pytest_cache": true,
+    "**/__init__.py": true
+  },
+  "cSpell.words": ["dotenv", "jsonify"]
+}
